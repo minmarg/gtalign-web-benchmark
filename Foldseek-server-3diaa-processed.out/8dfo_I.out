@@ -1,0 +1,12 @@
+8dfo_I     8dfs_I  8dfoI  8dfsI Pr=          1 Ev=  1.169e-61 Sc=       2842  tm1=  0.93361 tm2=  0.69905 best= 0.933610
+8dfo_I     8dfa_I  8dfoI  8dfaI Pr=          1 Ev=   3.15e-61 Sc=       2634  tm1=  0.95548 tm2=  0.95548 best= 0.955480
+8dfo_I     8dej_I  8dfoI  8dejI Pr=          1 Ev=  2.719e-50 Sc=       1641  tm1=  0.59519 tm2=  0.47278 best= 0.595190
+8dfo_I     7kha_I  8dfoI  7khaI Pr=          1 Ev=  8.789e-36 Sc=       1343  tm1=  0.77846 tm2=  0.83598 best= 0.835980
+8dfo_I     8dfs_J  8dfoI  8dfsJ Pr=          1 Ev=  5.517e-13 Sc=        591  tm1=  0.27597 tm2=  0.94935 best= 0.949350
+8dfo_I     8dfs_K  8dfoI  8dfsK Pr=          1 Ev=      1e-12 Sc=        573  tm1=  0.27561 tm2=  0.94030 best= 0.940300
+8dfo_I     8dfa_K  8dfoI  8dfaK Pr=          1 Ev=  7.632e-12 Sc=        509  tm1=  0.27330 tm2=  0.91654 best= 0.916540
+8dfo_I     7kha_L  8dfoI  7khaL Pr=          1 Ev=  1.773e-11 Sc=        488  tm1=  0.26496 tm2=  0.86201 best= 0.862010
+8dfo_I     2y6w_A  8dfoI  2y6wA Pr=      0.082 Ev=      4.332 Sc=         29  tm1=  0.11302 tm2=  0.26549 best= 0.265490
+8dfo_I     4hnz_B  8dfoI  4hnzB Pr=      0.034 Ev=      6.441 Sc=         21  tm1=  0.09692 tm2=  0.17526 best= 0.175260
+8dfo_I     4w4i_A  8dfoI  4w4iA Pr=      0.029 Ev=      8.671 Sc=         20  tm1=  0.08147 tm2=  0.11158 best= 0.111580
+8dfo_I     6jmp_A  8dfoI  6jmpA Pr=      0.029 Ev=      8.671 Sc=         20  tm1=  0.10057 tm2=  0.09178 best= 0.100570

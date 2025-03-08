@@ -1,0 +1,7 @@
+7ci1_B     7ci1_A  7ci1B  7ci1A Pr=      0.999 Ev=     0.9973 Sc=         99  tm1=  0.99896 tm2=  0.99559 best= 0.998960
+7ci1_B     7ci2_B  7ci1B  7ci2B Pr=      0.999 Ev=       0.95 Sc=         97  tm1=  0.97769 tm2=  0.92239 best= 0.977690
+7ci1_B     2f25_A  7ci1B  2f25A Pr=      0.126 Ev=     0.3205 Sc=         34  tm1=  0.34915 tm2=  0.29324 best= 0.349150
+7ci1_B     1vcu_A  7ci1B  1vcuA Pr=      0.126 Ev=     0.3146 Sc=         34  tm1=  0.34033 tm2=  0.28892 best= 0.340330
+7ci1_B     6le2_A  7ci1B  6le2A Pr=      0.098 Ev=     0.3075 Sc=         31  tm1=  0.31381 tm2=  0.30323 best= 0.313810
+7ci1_B     3kvc_A  7ci1B  3kvcA Pr=       0.09 Ev=     0.2575 Sc=         30  tm1=  0.31011 tm2=  0.20751 best= 0.310110
+7ci1_B     3kvc_B  7ci1B  3kvcB Pr=       0.09 Ev=     0.2565 Sc=         30  tm1=  0.30729 tm2=  0.20579 best= 0.307290

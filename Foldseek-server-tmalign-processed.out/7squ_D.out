@@ -1,0 +1,7 @@
+7squ_D     7squ_A  7squD  7squA Pr=          1 Ev=          1 Sc=        100  tm1=  1.00000 tm2=  1.00000 best= 1.000000
+7squ_D     7sqt_A  7squD  7sqtA Pr=          1 Ev=     0.9729 Sc=        100  tm1=  1.00000 tm2=  0.94590 best= 1.000000
+7squ_D     7sqr_A  7squD  7sqrA Pr=      0.991 Ev=      0.863 Sc=         84  tm1=  0.84769 tm2=  0.87829 best= 0.878290
+7squ_D     8igg_B  7squD  8iggB Pr=       0.99 Ev=     0.8551 Sc=         83  tm1=  0.83528 tm2=  0.87496 best= 0.874960
+7squ_D     7sqq_A  7squD  7sqqA Pr=      0.991 Ev=      0.839 Sc=         84  tm1=  0.84769 tm2=  0.83035 best= 0.847690
+7squ_D     8fne_A  7squD  8fneA Pr=      0.988 Ev=     0.8374 Sc=         82  tm1=  0.82518 tm2=  0.85015 best= 0.850150
+7squ_D     8igg_C  7squD  8iggC Pr=      0.986 Ev=      0.835 Sc=         81  tm1=  0.81180 tm2=  0.85828 best= 0.858280
